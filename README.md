@@ -30,7 +30,7 @@ Learn more about [Live Server](https://marketplace.visualstudio.com/items?itemNa
 ## Author
 :bust_in_silhouette: **Author**
 - GitHub: [@Nezerwa](https://github.com/Nezerwa)
-- LinkedIn: [Rwubakwanayo](https://www.linkedin.com/in/eligrand-nezerwa)
+- LinkedIn: [Nezerwa](https://www.linkedin.com/in/eligrand-nezerwa)
 ## :handshake: Contributing
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](../../issues/).
